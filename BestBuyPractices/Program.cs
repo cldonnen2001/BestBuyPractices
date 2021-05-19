@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BestBuyPractices
+namespace BestBuyPractices  // VIEW GIT CHANGES
 {
     class Program
     {
